@@ -140,6 +140,8 @@ OUTPUT Titelblatt.toc
 INPUT ./Einleitung.tex
 INPUT ./Theorie.tex
 INPUT ./Versuchsbeschreibung.tex
+INPUT ./Bilder/Versuchsaufbau O3.jpeg
+INPUT ./Bilder/Versuchsaufbau O3.jpeg
 INPUT ./AuswertungundDiskussion.tex
 INPUT ./Zusammenfassung.tex
 INPUT ./Laborbuch(Anhang).tex
