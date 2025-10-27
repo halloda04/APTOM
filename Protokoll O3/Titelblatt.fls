@@ -1,6 +1,6 @@
-PWD c:/Users/tomgl/Desktop/Protokoll O3
+PWD c:/Users/tomgl/Documents/Universität Augsburg/Ap 2 Versuch/APTOM/Protokoll O3
 INPUT c:/texlive/2025/texmf-var/web2c/luahbtex/lualatex.fmt
-INPUT c:/Users/tomgl/Desktop/Protokoll O3/Titelblatt.tex
+INPUT c:/Users/tomgl/Documents/Universität Augsburg/Ap 2 Versuch/APTOM/Protokoll O3/Titelblatt.tex
 OUTPUT Titelblatt.log
 INPUT c:/texlive/2025/texmf-dist/tex/latex/tex-ini-files/lualatexquotejobname.lua
 INPUT c:/texlive/2025/texmf-dist/tex/latex/base/ltluatex.lua
@@ -99,6 +99,7 @@ INPUT c:/texlive/2025/texmf-dist/tex/latex/lipsum/lipsum.sty
 INPUT c:/texlive/2025/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 INPUT c:/texlive/2025/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
 INPUT c:/texlive/2025/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+INPUT c:/texlive/2025/texmf-dist/tex/latex/ragged2e/ragged2e.sty
 INPUT c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
 INPUT c:/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
 INPUT c:/texlive/2025/texmf-dist/tex/latex/graphics-def/luatex.def
@@ -107,7 +108,6 @@ INPUT c:/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
 INPUT c:/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
 INPUT c:/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
 INPUT c:/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT c:/texlive/2025/texmf-dist/tex/latex/ragged2e/ragged2e.sty
 INPUT ./Titelblatt.aux
 OUTPUT Titelblatt.aux
 INPUT c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -131,8 +131,8 @@ INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT ./Bilder/Logo.jpg
 INPUT ./Bilder/Logo.jpg
-INPUT ./Bilder/Titelbild.png
-INPUT ./Bilder/Titelbild.png
+INPUT ./Bilder/Titelbild O3.png
+INPUT ./Bilder/Titelbild O3.png
 OUTPUT Titelblatt.pdf
 INPUT c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT ./Titelblatt.toc

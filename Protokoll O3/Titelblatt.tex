@@ -11,6 +11,7 @@
 \usepackage{fancyhdr} 
 \usepackage{lipsum}
 \usepackage{wrapfig}
+\usepackage{ragged2e}
 %\usepackage{hyperref}
 
 
@@ -31,10 +32,10 @@
 \RaggedRight
 
 
-\newcommand{\Versuchnummer}{O4}                           %CHange iiit
-\newcommand{\Versuch}{Abbildungsfehler von Linsen}          %Change iiit
-\newcommand{\Abgabedatum}{06069}                           %Change iiit
-\newcommand{\Versuchsdatum}{187 strassenbandee}              %Change iiit
+\newcommand{\Versuchnummer}{O3}                           %CHange iiit
+\newcommand{\Versuch}{Newtonsche Ringe}          %Change iiit
+\newcommand{\Abgabedatum}{02.11.2025}                           %Change iiit
+\newcommand{\Versuchsdatum}{22.10.2025}              %Change iiit
 
 
 
@@ -93,11 +94,12 @@
 
 \vspace{2cm}
 \begin{center}
-\includegraphics[width=0.8\textwidth, height = 4cm, scale=3.0]{Bilder/Titelbild.png}   %Bild ändern
+\includegraphics[width=0.8\textwidth, height = 4cm, scale=3.0]{Bilder/Titelbild O3.png}   %Bild ändern
 \end{center}      
     \vfill
 \end{titlepage}
 \setcounter{page}{2}
+
 
 
 \pagestyle{fancy}
@@ -106,6 +108,7 @@
 \newpage
 
 \pagestyle{fancy}
+\justifying
 \input{Einleitung}
 \input{Theorie}
 \input{Versuchsbeschreibung}
