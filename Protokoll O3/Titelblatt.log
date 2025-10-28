@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.22.0 (TeX Live 2025)  (format=lualatex 2025.8.29)  27 OCT 2025 15:17
+This is LuaHBTeX, Version 1.22.0 (TeX Live 2025)  (format=lualatex 2025.8.29)  28 OCT 2025 14:42
  restricted system commands enabled.
  file:line:error style messages enabled.
 **"c:/Users/tomgl/Documents/Universität Augsburg/Ap 2 Versuch/APTOM/Protokoll O3/Titelblatt.tex"
@@ -468,17 +468,17 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <Bilder/Logo.jpg, id=1, 405.4347pt x 70.8246pt>
 File: Bilder/Logo.jpg Graphic file (type jpg)
 <use Bilder/Logo.jpg>
-Package luatex.def Info: Bilder/Logo.jpg  used on input line 88.
-(luatex.def)             Requested size: 364.88785pt x 63.74152pt.
+Package luatex.def Info: Bilder/Logo.jpg  used on input line 87.
+(luatex.def)             Requested size: 213.39568pt x 37.27855pt.
 
-Overfull \hbox (3.64633pt too wide) in paragraph at lines 78--91
+Overfull \hbox (3.64635pt too wide) in paragraph at lines 78--89
 $[]$ $[]$  
  []
 
 <Bilder/Titelbild O3.png, id=2, 266.9975pt x 125.46875pt>
 File: Bilder/Titelbild O3.png Graphic file (type png)
 <use Bilder/Titelbild O3.png>
-Package luatex.def Info: Bilder/Titelbild O3.png  used on input line 97.
+Package luatex.def Info: Bilder/Titelbild O3.png  used on input line 95.
 (luatex.def)             Requested size: 800.99048pt x 376.40529pt.
 
 
@@ -579,16 +579,16 @@ L3 programming layer <2025-08-13>
 )
 
 Here is how much of LuaTeX's memory you used:
- 7537 strings out of 470117
+ 7535 strings out of 470117
  100000,794899 words of node,token memory allocated
  525 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 6 attribute, 71 glue_spec, 4 attribute_list, 1 write nodes
    avail lists: 2:390,3:114,4:43,5:364,6:36,7:5384,8:19,9:212,10:27,11:554
- 35765 multiletter control sequences out of 65536+600000
+ 35763 multiletter control sequences out of 65536+600000
  35 fonts using 2613311 bytes
  73i,11n,73p,343b,322s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf><c:/texlive/2025/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf><c:/texlive/2025/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf><c:/texlive/2025/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Titelblatt.pdf (9 pages, 200977 bytes).
+Output written on Titelblatt.pdf (9 pages, 200903 bytes).
 
 PDF statistics: 76 PDF objects out of 1000 (max. 8388607)
  45 compressed objects within 1 object stream
