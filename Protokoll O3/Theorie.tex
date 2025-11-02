@@ -26,7 +26,47 @@ Die Wellen müssen Koheränt sein,
 dass bedeuted sie zueinander eine zeitlich feste Phasenbeziehung haben. 
 Damit zwei Wellen miteinander Interferieren dürfen sie auch nicht senkrecht 
 zueinander stehen. Wenn diese Bedingungen erfüllt werden dann können sich 
-die Wellen gegenseitig beinflussen oder auch Interferieren. Die stärkste Form 
+die Wellen gegenseitig beinflussen oder auch Interferieren. Zu stärkste Form 
 der Interferenz tritt auf wenn die Wellen zueinander jeweils um ganzzahlige 
 $pi$ verschoben sind. Bei ungeraden $\pi$ kommt es zu destruktiver Interferenz, 
 bei geraden $pi$ kommt es zu konstruktiver Interferenz
+
+\subsection{Newtonsches Farbglas} 
+
+Um einen solchen Gangunterschied zu erzeugen nutz man bei diesem Versuch eine plankonvexe Linse mit großem Radius R, die auf einer
+Glasplatte aufliegt. 
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.8\textwidth]{bilder/farbglas.PNG}
+    \caption{\textit{Skizze des Newtonsche Farbglas QUELLE}}
+    \label{fig:farbglas}
+\end{figure}
+
+Fällt nun Licht am Punkt P welcher mit dem Radius r von dem Mittelpunkt enfernt ist ein, kommt es zur Brechung an Der Glas-Luft Oberfläche. Ein Teil des Lichtes wird Transmittiert und läuft
+weiter den Abstand zwischen Linse und Glasplatte $d + d_0$ entlang und wird an Glasplatte nochmals Reflektiert/Transmittiert. Das Reflektiert Licht wird um $\pi$ Phasenverschoben und nochmals wenn es am der Linse Reflektiert wird. Die somit durch das Glas transmittierte Lichtwellen sind paralell und haben einen geometrischen Gangunterschied von
+\begin{equation}
+  \delta_{geo} = 2\cdot(d + d_0)
+\end{equation}
+  Mit den zusätzlich Phasensprüngen bei der Reflektion ergibt das Einen Gangunterschied von
+  \begin{equation}
+    \delta = 2\cdot(d + d_0) + \lambda
+  \end{equation}
+  Für die komplette Auslöschung gilt die Bedingungen
+  \begin{equation}
+  \delta = (n+\frac{1}{2}) \cdot \lambda
+  \end{equation}
+Daraus folgt
+\begin{equation}
+2\cdot(d + d_0) = (n-\frac{1}{2}) \cdot \lambda
+\label{eq:g}
+\end{equation}
+Mit Hilfe des rechtwinkligen Dreiecks in Abb.~\ref{fig:farbglas} und unter Vernachlässigung der Terme, die von $5$ abhängen, ergibt sich folgende Gleichung:
+\begin{equation}
+r_n^2 = 2dR
+\end{equation}
+Daraus folgt mit Gleichung GLEICHUNG eine Funktion für die Radien totaler Auslöschung abhängig von $R, n, \lambda, d_0$
+\begin{equation}
+r_n^2 = R \cdot (n \cdot \lambda - \frac{1}{2} \cdot \lambda -2d_o)
+\end{equation} 
+
+  
